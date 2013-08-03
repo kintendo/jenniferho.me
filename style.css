@@ -1,0 +1,56 @@
+body
+{
+background-color:#000000;
+scrollbar-face-color : #FF0000;
+scrollbar-highlight-color : #FF6666;
+scrollbar-3dlight-color : #FF9999;
+scrollbar-darkshadow-color : #660000;
+scrollbar-arrow-color : #FFCCCC;
+scrollbar-shadow-color : #FF0000;
+scrollbar-track-color: #330000;
+}
+h1
+{
+font-family:"Georgia",serif;
+font-size:16px;
+color:#6B6B6B;
+text-align:left;
+}
+h2
+{
+font-family:"Georgia",serif;
+font-size:12.5px;
+color:#6B6B6B;
+text-align:left;
+}
+p
+{
+font-family:"Gill Sans",sans-serif;
+font-size:13px;
+color:#6B6B6B;
+text-align:left;
+}
+#jph {
+width:172px;
+height:365px;
+border:1px solid #6b6b6b;
+} 
+#thebox {
+width:550px;
+height:365px;
+border:0px solid #000000;
+}
+table, td, th
+{
+border:1px solid black;
+background-color:black;
+font-family:"Gill Sans",sans-serif;
+font-size:13px;
+text-align:left;
+color:6b6b6b;
+}
+a:link {text-decoration:none; color:#6B6B6B}    /* unvisited link */
+a:visited {text-decoration:none; color:#6B6B6B} /* visited link */
+a:hover {text-decoration:underline; color#6B6B6B}   /* mouse over link */
+a:active {text-decoration:underline; color:#6B6B6B}  /* selected link */
+ul.a {list-style-type:square;}
